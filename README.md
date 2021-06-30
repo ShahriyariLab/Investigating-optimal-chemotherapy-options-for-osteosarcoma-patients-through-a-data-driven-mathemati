@@ -1,4 +1,4 @@
-# Investigating-optimal-chemotherapy-options-for-osteosarcoma-patients-through-a-data-driven-mathemati
+# Investigating optimal chemotherapy options for osteosarcoma patients through a data-driven mathematical model
 
 All tumors are unique, so they might respond differently to the same treatment. In this work, we develop a mathematical model of the interactions between key players in osteosarcoma microenvironment and the most common chemotherapy drugs in three clusters of tumors with distinct immune compositions. We then study the behaviors of cells and cytokines in the tumor microenvironment under the effects of chemotherapy, investigate the responses in each cluster to different treatment regimens and various treatment start times, as well as suggest optimal dosages for tumors of each cluster.
 
